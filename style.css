@@ -41,7 +41,7 @@ span{
   float: left;
 }
 
-@media (max-width : 480px) {
+@media (max-width : 319px) {
   .logo{
     width: 50px;
   }
